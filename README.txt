@@ -12,5 +12,5 @@ Perform the following steps in Android Studio:
 Record tests with Robotium Recorder:
 
 http://robotium.com/
-
+something
 
