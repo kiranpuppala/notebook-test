@@ -10,7 +10,7 @@ Perform the following steps in Android Studio:
 
 
 Record tests with Robotium Recorder:
-
+hello
 http://robotium.com/
 something
 
