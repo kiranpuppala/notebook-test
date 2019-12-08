@@ -1,4 +1,4 @@
-SFSDFSSD:idfsf1sdfsdfsdfslfsdkffsdfsdfsdfdsdsfdsisdfsdometing Perform the following steps in Android Studio:
+sdfsdfsSFSDFSSD:idfsf1sdfsdfsdfslfsdkffsdfsdfsdfdsdsfdsisdfsdometing Perform the following steps in Android Studio:
 
 1. In the Android Studio welcome screen click “Open an existing Android Studio project”. Point to the unpacked ‘ExampleTestProject_AndroidStudio_v5.3’ folder. 
 
